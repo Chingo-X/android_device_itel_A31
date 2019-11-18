@@ -3,7 +3,7 @@ Lineage OS 14.1
 - This Trees Are Used For Building LineageOS/AOSP Based Roms.
 - For: `` Itel A31 ``
 
-# X5 Speces:
+# Itel A31 Speces:
 - MT6580 Chipset
 - Nougat 7.0 (3.18.19 Kernel)
 - 5,0" 1280x720 display
